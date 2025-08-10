@@ -28,8 +28,7 @@ I used the **Pima Indians Diabetes dataset** to show:
 
 ## 📊 Results
 Before SMOTE:
-neg: 500  
-pos: 268
+neg: 500  pos: 268
 
 After SMOTE:
 neg: 500
