@@ -22,9 +22,8 @@ I used the **Pima Indians Diabetes dataset** to show:
 1. Load and inspect the dataset.
 2. Convert target labels to numeric for SMOTE processing.
 3. Apply SMOTE using the [`smotefamily`](https://cran.r-project.org/package=smotefamily) package.
-4. Compare class balance before and after oversampling.
-
-## Added the R script mentioning how I ran the codes
+4. Added the R script mentioning how I ran the codes
+5. Compare class balance before and after oversampling.
 
 ## 📊 Results
 Before SMOTE:
